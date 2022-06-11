@@ -20,5 +20,4 @@ public class Group1_Java_Tasks {
         System.out.println( checkPalindrome( "racecar" ) );
     }
 
-    //Ayse Demirhan
 }
