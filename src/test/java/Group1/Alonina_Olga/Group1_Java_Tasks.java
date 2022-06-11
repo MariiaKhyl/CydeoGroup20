@@ -1,4 +1,4 @@
-package Group1;
+package Group1.Alonina_Olga;
 
 import java.util.Arrays;
 import java.util.Collections;
