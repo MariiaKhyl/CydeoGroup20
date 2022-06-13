@@ -20,4 +20,45 @@ public class Group1_Java_Tasks {
         System.out.println( checkPalindrome( "racecar" ) );
     }
 
+
+    //Ayse Demirhan I will get line 50-90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public static String isPalindrome(String s){
+        String checked = "";
+        for (int i= s.length()-1;  i>=0 ;i --) {
+            checked+=s.charAt(i);
+        }
+        if(checked.equals(s)){
+            return "palindrome";
+        }else{
+            return "not a palindrome";
+        }
+    }
+
+
 }
