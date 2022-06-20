@@ -1,4 +1,4 @@
-package Group1.Alonina_Olga;
+package Group1;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -21,6 +21,9 @@ public class Group1_Java_Tasks {
     }
 
 
+  
+  
+  main
     //Ayse Demirhan I will get line 50-90
 
 
