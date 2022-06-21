@@ -1,4 +1,4 @@
-package Group2;
+package Group2.mariiaKhyl;
 
 public class Group2_Java_Tasks {
 
