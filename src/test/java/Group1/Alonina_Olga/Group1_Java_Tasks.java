@@ -19,11 +19,6 @@ public class Group1_Java_Tasks {
         System.out.println( checkPalindrome( "watermelon" ) );
         System.out.println( checkPalindrome( "racecar" ) );
     }
-
-
-  
-  
-  main
     //Ayse Demirhan I will get line 50-90
 
 
