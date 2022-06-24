@@ -1,4 +1,4 @@
-package Group1;
+package Group1.Alonina_Olga;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -19,7 +19,6 @@ public class Group1_Java_Tasks {
         System.out.println( checkPalindrome( "watermelon" ) );
         System.out.println( checkPalindrome( "racecar" ) );
     }
-
     //Ayse Demirhan I will get line 50-90
 
 
