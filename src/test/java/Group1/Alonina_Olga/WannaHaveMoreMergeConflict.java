@@ -21,6 +21,13 @@ public class WannaHaveMoreMergeConflict {
         System.out.println( altPairs( "kitten" ) );
         System.out.println( altPairs( "Chocolate" ) );
         System.out.println( altPairs( "CodingHorror" ) );
+
+
+        System.out.println("Hello world");
     }
+
+    // Trying to mess around
+
+
 
 }
