@@ -5,7 +5,6 @@ import java.util.Collections;
 import java.util.LinkedList;
 
 public class Reverse {
-
     public static void main(String[] args) {
         LinkedList<String> week = new LinkedList<>(Arrays.asList("Monday", "Tuesday", "Wednesday", "Thursday", "Saturday", "Sunday"));
         System.out.println(reversedLinkedList(week));
@@ -15,6 +14,5 @@ public class Reverse {
         Collections.reverse(week);
         return week;
     }
-
 
 }
