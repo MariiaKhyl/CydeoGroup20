@@ -24,6 +24,10 @@ public class Group3_Java_Tasks {
 
 
 
+    // Trying to work on Commend Prompt I did NOT like it :))
+
+
+
 
     /*
     You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
@@ -48,6 +52,25 @@ nums1 has a length of m + n, where the first m elements denote the elements that
             j++;
         }
         return result;
+    }
+
+
+
+
+
+
+    // Write a method that return non-duplicate letter from String
+
+    public static String nonDuplicate(String str){
+
+        StringBuilder result = new StringBuilder();
+
+        for (int i = 0; i <str.length() ; i++) {
+            if(!result.toString().contains(str.charAt(i)+"")){
+                result.append(str.charAt(i));
+            }
+        }
+        return result.toString();
     }
 
 
