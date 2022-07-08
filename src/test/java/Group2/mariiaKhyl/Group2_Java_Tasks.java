@@ -50,8 +50,6 @@ Just create the method. And your method will return a boolean.
 
     public static void main(String[] args) {
         System.out.println(palindromeGitTest("level"));
-        System.out.println(palindromeGitTest("kayak"));
-        System.out.println(palindromeGitTest("wow"));
     }
 
 
